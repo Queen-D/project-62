@@ -1,0 +1,11 @@
+.container{
+    text-align: center;
+}
+.item active{
+    height: 50px;
+    width: 50px;
+}
+.item2{
+    height: 50px;
+    width: 50px;
+}
